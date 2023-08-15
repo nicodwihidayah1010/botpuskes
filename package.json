@@ -4,6 +4,7 @@
   "description": "botpuskes",
   "main": "puskes.js",
   "scripts": {
+    "start": "node puskes.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nico Dwi Hidayah",
